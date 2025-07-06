@@ -1,0 +1,108 @@
+[
+    {
+      "name": "John Doe",
+      "role": "Data Engineer",
+      "level": "Senior",
+      "skills": ["Python", "SQL", "Apache Spark", "Airflow"],
+      "years_experience": 6
+    },
+    {
+      "name": "Amitabh Roy",
+      "role": "Data Engineer",
+      "level": "Junior",
+      "skills": ["Python", "SQL", "Pandas"],
+      "years_experience": 1
+    },
+    {
+      "name": "Olivia Smith",
+      "role": "Data Engineer",
+      "level": "Associate",
+      "skills": ["Scala", "Kafka", "dbt"],
+      "years_experience": 3
+    },
+    {
+      "name": "Sneha Kapoor",
+      "role": "Data Engineer",
+      "level": "Senior",
+      "skills": ["Python", "Airflow", "AWS Glue"],
+      "years_experience": 5
+    },
+    {
+      "name": "Liam Patel",
+      "role": "Data Architect",
+      "level": "Lead",
+      "skills": ["Snowflake", "Redshift", "Data Modeling", "ETL Design"],
+      "years_experience": 9
+    },
+    {
+      "name": "Emily Zhang",
+      "role": "Data Architect",
+      "level": "Senior",
+      "skills": ["Azure Synapse", "BigQuery", "Informatica"],
+      "years_experience": 7
+    },
+    {
+      "name": "Rajeev Menon",
+      "role": "Data Architect",
+      "level": "Associate",
+      "skills": ["PostgreSQL", "dbt", "Data Vault"],
+      "years_experience": 4
+    },
+    {
+      "name": "Noah Wilson",
+      "role": "Data Scientist",
+      "level": "Team Lead",
+      "skills": ["Python", "Machine Learning", "NLP", "Model Deployment"],
+      "years_experience": 8
+    },
+    {
+      "name": "Ishita Nair",
+      "role": "Data Scientist",
+      "level": "Senior",
+      "skills": ["R", "Time Series", "Power BI"],
+      "years_experience": 6
+    },
+    {
+      "name": "James O'Connor",
+      "role": "Data Scientist",
+      "level": "Junior",
+      "skills": ["Python", "scikit-learn", "Matplotlib"],
+      "years_experience": 2
+    },
+    {
+      "name": "Tanvi Rao",
+      "role": "Data Scientist",
+      "level": "Associate",
+      "skills": ["Tableau", "Deep Learning", "TensorFlow"],
+      "years_experience": 3
+    },
+    {
+      "name": "Ryan Thompson",
+      "role": "Frontend Developer",
+      "level": "Senior",
+      "skills": ["React", "TypeScript", "Redux", "Next.js"],
+      "years_experience": 6
+    },
+    {
+      "name": "Kavya Sen",
+      "role": "Frontend Developer",
+      "level": "Junior",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "years_experience": 1
+    },
+    {
+      "name": "William Parker",
+      "role": "Frontend Developer",
+      "level": "Associate",
+      "skills": ["Vue.js", "Tailwind CSS", "Vite"],
+      "years_experience": 3
+    },
+    {
+      "name": "Priya Narayanan",
+      "role": "Frontend Developer",
+      "level": "Lead",
+      "skills": ["React", "GraphQL", "Micro-Frontends", "CI/CD"],
+      "years_experience": 8
+    }
+  ]
+  

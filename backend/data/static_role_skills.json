@@ -1,0 +1,52 @@
+{
+  "Data Engineer": {
+    "core_skills": ["SQL", "Python", "ETL", "Data Warehousing", "Apache Airflow", "Spark"],
+    "advanced_skills": ["DataOps", "MLOps", "Real-time Processing", "Cloud Platforms", "Data Governance"],
+    "cross_skills": ["Machine Learning", "DevOps", "Product Management", "Business Intelligence"]
+  },
+  "Software Engineer": {
+    "core_skills": ["Programming Languages", "Data Structures", "Algorithms", "Version Control", "Testing"],
+    "advanced_skills": ["System Design", "Microservices", "Cloud Architecture", "Performance Optimization", "Security"],
+    "cross_skills": ["DevOps", "Data Engineering", "Product Management", "UX/UI Design"]
+  },
+  "Data Scientist": {
+    "core_skills": ["Python", "Statistics", "Machine Learning", "Data Analysis", "SQL", "Jupyter"],
+    "advanced_skills": ["Deep Learning", "MLOps", "A/B Testing", "Feature Engineering", "Model Deployment"],
+    "cross_skills": ["Software Engineering", "Product Management", "Business Strategy", "Data Engineering"]
+  },
+  "DevOps Engineer": {
+    "core_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "Cloud Platforms", "Infrastructure as Code"],
+    "advanced_skills": ["Site Reliability Engineering", "Security", "Monitoring", "Automation", "Cost Optimization"],
+    "cross_skills": ["Software Engineering", "Data Engineering", "Security Engineering", "Product Management"]
+  },
+  "Product Manager": {
+    "core_skills": ["Product Strategy", "User Research", "Data Analysis", "Agile/Scrum", "Stakeholder Management"],
+    "advanced_skills": ["Product Analytics", "A/B Testing", "Go-to-Market Strategy", "Technical Architecture", "Team Leadership"],
+    "cross_skills": ["Data Science", "Software Engineering", "UX/UI Design", "Business Development"]
+  },
+  "UX/UI Designer": {
+    "core_skills": ["User Research", "Wireframing", "Prototyping", "Design Systems", "User Testing"],
+    "advanced_skills": ["Design Strategy", "Accessibility", "Animation", "Frontend Development", "Design Leadership"],
+    "cross_skills": ["Product Management", "Software Engineering", "Data Science", "Marketing"]
+  },
+  "QA Engineer": {
+    "core_skills": ["Test Planning", "Manual Testing", "Automated Testing", "Bug Tracking", "Test Cases"],
+    "advanced_skills": ["Test Automation", "Performance Testing", "Security Testing", "CI/CD Integration", "Test Strategy"],
+    "cross_skills": ["Software Engineering", "DevOps", "Product Management", "Data Science"]
+  },
+  "Frontend Developer": {
+    "core_skills": ["HTML", "CSS", "JavaScript", "React/Vue/Angular", "Responsive Design", "Web APIs"],
+    "advanced_skills": ["TypeScript", "State Management", "Performance Optimization", "Testing", "Build Tools"],
+    "cross_skills": ["Backend Development", "UX/UI Design", "DevOps", "Mobile Development"]
+  },
+  "Backend Developer": {
+    "core_skills": ["Programming Languages", "Databases", "APIs", "Authentication", "Error Handling", "Logging"],
+    "advanced_skills": ["System Design", "Microservices", "Caching", "Message Queues", "Security", "Performance"],
+    "cross_skills": ["Frontend Development", "DevOps", "Data Engineering", "Mobile Development"]
+  },
+  "Machine Learning Engineer": {
+    "core_skills": ["Python", "Machine Learning", "Deep Learning", "MLOps", "Model Deployment", "Data Processing"],
+    "advanced_skills": ["ML Infrastructure", "Model Monitoring", "Feature Stores", "AutoML", "ML Security"],
+    "cross_skills": ["Software Engineering", "Data Engineering", "DevOps", "Product Management"]
+  }
+} 
