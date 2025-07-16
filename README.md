@@ -13,13 +13,14 @@ Upload team memeber and skills here:
 Select team member:
 <img width="1555" height="1048" alt="image" src="https://github.com/user-attachments/assets/4659d048-8823-44d6-a25b-ed4f8915e556" />
 
-Get Recommendations
+Get Recommendations:
 <img width="1526" height="1214" alt="image" src="https://github.com/user-attachments/assets/ebc94b59-fbca-4b63-a103-a00071aa79b8" />
 
 Show Trends:
 <img width="1496" height="703" alt="image" src="https://github.com/user-attachments/assets/d44b2a2e-228c-4c95-b8fc-4f8d76739565" />
 
 Cross-Skill:
+
 <img width="634" height="1239" alt="image" src="https://github.com/user-attachments/assets/55745aec-f96e-47f0-99d2-e79136e0b37f" />
 
 ## 🎯 **Key Features**
