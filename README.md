@@ -1,8 +1,5 @@
 # 🧠 GenAI-Powered Dynamic Team Skill Recommendation System
 
-<img width="2529" height="3523" alt="image" src="https://github.com/user-attachments/assets/a14b07ad-5057-4b92-8d0a-46623aeed39e" />
-
-
 > 🌟 **AI-powered system that generates real-time, personalized skill recommendations based on current industry trends and market demands.**
 
 ## 🎯 **Key Features**
